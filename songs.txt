@@ -1,0 +1,40 @@
+8
+Bang Bang 
+Jessie J, Ariana Grande, Nicki Minaj
+Sweet Talker
+C:\Users\India\Documents\CS112\workspace\Project4\music\Hip-Hop\Bang Bang.mp3
+
+Celebration
+Kool & The Gang
+Celebrate!
+C:\Users\India\Documents\CS112\workspace\Project4\music\Funk\Celebration.mp3
+
+Gangsta's Paradise 
+Coolio
+Gangsta's Paradise
+C:\Users\India\Documents\CS112\workspace\Project4\music\Hip-Hop\Gangsta's Paradise.mp3
+
+Perfect Two
+Auburn
+Perfect Two
+C:\Users\India\Documents\CS112\workspace\Project4\music\Chill\Perfect Two.mp3
+
+Stolen Dance 
+Milky Chance
+Sadnecessary
+C:\Users\India\Documents\CS112\workspace\Project4\music\Chill\Stolen Dance.mp3
+
+T-Shirt
+Destiny's Child
+Destiny Fulfilled
+C:\Users\India\Documents\CS112\workspace\Project4\music\Chill\04 T-Shirt.mp3
+
+Uptown Funk Feat. Bruno Mars
+Mark Ronson 
+Uptown Special
+C:\Users\India\Documents\CS112\workspace\Project4\music\Funk\Uptown Funk Feat. Bruno Mars.mp3
+
+What I Need
+Deepside
+What I Need
+C:\Users\India\Documents\CS112\workspace\Project4\music\Chill\ed.mp3
